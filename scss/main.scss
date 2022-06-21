@@ -1,0 +1,19 @@
++{
+    margin: 0;
+    padding: 0;
+}
+
+@import './secciones/header.scss';
+
+h1{
+    background-color: blue;
+    color: white;
+}
+
+.seccion-editorial{
+    background-color: dimgrey;
+    color: white;
+    p{
+        text-align: center;
+    }
+}

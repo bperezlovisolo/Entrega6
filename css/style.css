@@ -1,0 +1,18 @@
++ {
+  margin: 0;
+  padding: 0; }
+
+header {
+  background-color: beige; }
+  header ul {
+    display: flex; }
+
+h1 {
+  background-color: blue;
+  color: white; }
+
+.seccion-editorial {
+  background-color: dimgrey;
+  color: white; }
+  .seccion-editorial p {
+    text-align: center; }
